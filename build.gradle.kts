@@ -1,4 +1,4 @@
-ss
+
 plugins {
     id("java")
 }
